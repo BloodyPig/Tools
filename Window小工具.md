@@ -14,6 +14,8 @@
 
 - #### 桌面美化&状态监控 [Rainmeter](https://www.rainmeter.net/)
 
+- #### 快速录屏生成GIF [ScreenToGif](https://www.screentogif.com/?l=zh_cn)
+
 ## 1、Snipaste
 
 这是一个简单但是强大的截图贴图工具(比如这里面的图片都是使用这个工具截的)，后台运行几乎不占用资源，使用快捷键触发(可以自定义)，快速截图以后可以直接在截图界面做一些标注、涂鸦，可以添加箭头、文字、几何形状，甚至马赛克。
@@ -64,4 +66,12 @@
 
 [官网](https://www.rainmeter.net/)上提供了社区入口，可以下载到很多玩家自制的美化皮肤，让桌面看起来不再那么单调。
 
-项目开源。
+[项目开源](https://github.com/rainmeter/rainmeter)。
+
+## 6、ScreenToGif
+
+小巧易用的一个快速录屏软件，可以对整个屏幕区域，或者摄像头，或者内置的画板实现快速生成GIF图，生成以后可以自动编辑GIF，十分强大，可以用来丰富自己的演示项目或说明性文件。
+
+![](./image/ScreenToGif.bmp)
+
+[软件开源](https://github.com/NickeManarin/ScreenToGif/)免费，没有任何广告。
